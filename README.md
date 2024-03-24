@@ -1,7 +1,7 @@
 # window-custom-desktop-pack
 * ![alt text](https://github.com/Rifqi2007c/window-custom-desktop-pack/blob/main/screenshot0.png)
-* ![alt text](https://github.com/Rifqi2007c/window-custom-desktop-pack/blob/main/screenshot1.png)
-* shortcut key - autohotkey
+ ![alt text](https://github.com/Rifqi2007c/window-custom-desktop-pack/blob/main/screenshot1.png)
+### shortcut key with autohotkey
  * terminal - windows key + z
  * file explorer - windows key + e
  * close any window - alt + q
