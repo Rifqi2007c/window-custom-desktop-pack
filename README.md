@@ -1,4 +1,11 @@
 # window-custom-desktop-pack
+* ![alt text](https://github.com/Rifqi2007c/window-custom-desktop-pack/blob/main/screenshot0.png)
+* ![alt text](https://github.com/Rifqi2007c/window-custom-desktop-pack/blob/main/screenshot1.png)
+* shortcut key - autohotkey
+ * terminal - windows key + z
+ * file explorer - windows key + e
+ * close any window - alt + q
+  
 ## [yasb](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/da-rth/yasb&ved=2ahUKEwjq0IChvYyFAxU63TgGHchFDGoQFnoECBkQAQ&usg=AOvVaw1-RXJluOeMgBkDASzMyuQ3)
 ### my config
 * [config.yaml](https://github.com/Rifqi2007c/window-custom-desktop-pack/blob/main/config.yaml)
