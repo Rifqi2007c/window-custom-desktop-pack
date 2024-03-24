@@ -3,9 +3,9 @@
  ![alt text](https://github.com/Rifqi2007c/window-custom-desktop-pack/blob/main/screenshot1.png)
 ### shortcut key with autohotkey
  * terminal - windows key + z
+ *  - make sure you have [powershell shortcut.lnk](https://github.com/Rifqi2007c/window-custom-desktop-pack/blob/main/powershell%20shortcut.lnk) and [powershell-shortcut.ps1](https://github.com/Rifqi2007c/window-custom-desktop-pack/blob/main/powershell-shortcut.ps1) in Document folder
  * file explorer - windows key + e
  * close any window - alt + q
- * make sure download 
 
 ## windows custom theme and cursor
 * [One Dark Pro by niivu](https://www.deviantart.com/niivu/art/One-Dark-Pro-for-Windows-11-930312689)
