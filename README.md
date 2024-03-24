@@ -7,8 +7,8 @@
  * file explorer - windows key + e
    - make sure you have [file explorer shortcut.lnk](https://github.com/Rifqi2007c/window-custom-desktop-pack/blob/main/file%20explorer%20shortcut.lnk) in Documnets folder
  * close any window - alt + q
-> * after you get all the shorcut make sure to right it click and go to properties and change Rifqi into your windows username
-> * if you use my autohotkey script make sure to edit it by replace Rifqi into your windows username
+> * after you get all the shorcut make sure to right click it and go to properties and change the target from ../Rifqi/ into your windows username
+> * if you use my autohotkey script make sure to edit it by replace ../Rifqi/ into your windows username. Scroll down to the very bottom until you find ;app shorcut and then you will find what you need to change
 
 ## windows custom theme and cursor
 * [One Dark Pro by niivu](https://www.deviantart.com/niivu/art/One-Dark-Pro-for-Windows-11-930312689)
