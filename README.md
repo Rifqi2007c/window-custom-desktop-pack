@@ -4,3 +4,13 @@
 ### my config
 * [config.yaml](https://github.com/Rifqi2007c/window-custom-desktop-pack/blob/main/config.yaml)
 * [style.css](https://github.com/Rifqi2007c/window-custom-desktop-pack/blob/main/styles.css)
+
+## winfetch
+[winfetch](https://github.com/lptstr/winfetch)
+### my config
+* [winfetch custom theme](https://github.com/Rifqi2007c/winfetch-custom-theme/tree/main)
+
+## komorebi
+[komorebi](https://github.com/LGUG2Z/komorebi)
+### my config
+* 
