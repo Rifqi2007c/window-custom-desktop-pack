@@ -30,3 +30,5 @@
 
 ## extra
 * [firefox custom css](https://github.com/Rifqi2007c/firefox-css/tree/main)
+* [openshell for taskbarcolor](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/Open-Shell/Open-Shell-Menu&ved=2ahUKEwjnns_MyoyFAxXMwzgGHWccDLoQFnoECAYQAQ&usg=AOvVaw1pnxWsEpvfj1fvpCxwRMc_)
+* [explorerpatcher for taskbar on top if you use windows 11](https://github.com/valinet/ExplorerPatcher)
