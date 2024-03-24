@@ -5,7 +5,7 @@
  * terminal - windows key + z
    - make sure you have [powershell shortcut.lnk](https://github.com/Rifqi2007c/window-custom-desktop-pack/blob/main/powershell%20shortcut.lnk) and [powershell-shortcut.ps1](https://github.com/Rifqi2007c/window-custom-desktop-pack/blob/main/powershell-shortcut.ps1) in Documents folder
  * file explorer - windows key + e
-  -make sure you have [file explorer shortcut.lnk](https://github.com/Rifqi2007c/window-custom-desktop-pack/blob/main/file%20explorer%20shortcut.lnk) in Documnets folder
+  - make sure you have [file explorer shortcut.lnk](https://github.com/Rifqi2007c/window-custom-desktop-pack/blob/main/file%20explorer%20shortcut.lnk) in Documnets folder
  * close any window - alt + q
 
 ## windows custom theme and cursor
