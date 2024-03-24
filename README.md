@@ -5,6 +5,11 @@
  * terminal - windows key + z
  * file explorer - windows key + e
  * close any window - alt + q
+
+## windows custom theme and cursor
+* [One Dark Pro by niivu](https://www.deviantart.com/niivu/art/One-Dark-Pro-for-Windows-11-930312689)
+* [Catppuccin Cursors by niivu](https://www.deviantart.com/niivu/art/Catppuccin-Cursors-921387705)
+
   
 ## [yasb](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/da-rth/yasb&ved=2ahUKEwjq0IChvYyFAxU63TgGHchFDGoQFnoECBkQAQ&usg=AOvVaw1-RXJluOeMgBkDASzMyuQ3)
 ### my config
