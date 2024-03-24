@@ -7,8 +7,8 @@
  * file explorer - windows key + e
    - make sure you have [file explorer shortcut.lnk](https://github.com/Rifqi2007c/window-custom-desktop-pack/blob/main/file%20explorer%20shortcut.lnk) in Documnets folder
  * close any window - alt + q
-> * after you get all the shorcut make sure to right click and go to properties and change Rifqi into your windows username
-> * if you use my autohotkey config make sure to edit it by replace Rifqi into your windows username
+> * after you get all the shorcut make sure to right it click and go to properties and change Rifqi into your windows username
+> * if you use my autohotkey script make sure to edit it by replace Rifqi into your windows username
 
 ## windows custom theme and cursor
 * [One Dark Pro by niivu](https://www.deviantart.com/niivu/art/One-Dark-Pro-for-Windows-11-930312689)
@@ -29,7 +29,7 @@
 * [komorebi.json](https://github.com/Rifqi2007c/window-custom-desktop-pack/blob/main/komorebi.json)
 
 ## [autohotkey](https://www.autohotkey.com)
-### my config
+### my script
 * [komorebi+extraShortcut](https://github.com/Rifqi2007c/window-custom-desktop-pack/blob/main/komorebi%2BextraShortcut.ahk)
 
 ## [flow launcher](https://www.flowlauncher.com/)
