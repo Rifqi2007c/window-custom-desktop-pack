@@ -5,6 +5,7 @@
  * terminal - windows key + z
  * file explorer - windows key + e
  * close any window - alt + q
+ * make sure download 
 
 ## windows custom theme and cursor
 * [One Dark Pro by niivu](https://www.deviantart.com/niivu/art/One-Dark-Pro-for-Windows-11-930312689)
