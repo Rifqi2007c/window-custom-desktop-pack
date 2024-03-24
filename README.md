@@ -13,4 +13,9 @@
 ## komorebi
 [komorebi](https://github.com/LGUG2Z/komorebi)
 ### my config
-* 
+* [komorebi.json](https://github.com/Rifqi2007c/window-custom-desktop-pack/blob/main/komorebi.json)
+
+## [autohotkey](https://www.autohotkey.com)
+### my config
+
+
